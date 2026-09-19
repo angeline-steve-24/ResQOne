@@ -48,3 +48,6 @@ Emergency Contacts  Medical ID   Accident History
                        |
                        v
              Nearby Location Services
+
+Emergency Workflow
+Manual Emergency
